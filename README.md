@@ -2,9 +2,6 @@
 
 ## Cloudflare 优选域名，服务于 Cloudflare 免费代理搭建方案，优质域名即为优质节点。
 
-<p align="center">
-<img src="https://badgen.net/github/stars/LancelotRar/best-cf-domains" align="absmiddle" style="height:25px"> <img src="https://badgen.net/github/forks/LancelotRar/best-cf-domains" align="absmiddle" style="height:25px"> <a href="https://t.me/liqunchannel"><img src="https://badgen.net/badge/利群便利店/频道" align="absmiddle" style="height:25px"></a>
-</p>
 
 - 优选域名通常依赖于那些在国际/国内互联表现极佳、且本身受到良好维护的“大厂”，它底层的 IP 调度和容灾由服务方或系统自动处理，**不需要用户天天操心换优选 IP**。
 
@@ -26,11 +23,6 @@
 https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain.txt
 ```
 
-## DOMAIN API Lite：
-
-```
-https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain-lite.txt
-```
 
 ## 使用
 
@@ -40,6 +32,3 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domai
 <p align="center">
   <img src="src/in-edt.png" alt="效果图">
 </p>
-
-## API 教程演示
-- 参考 [**Cloudflare 优选 IP API 教程演示**](https://github.com/LancelotRar/best-cf-ips#api-教程演示)
