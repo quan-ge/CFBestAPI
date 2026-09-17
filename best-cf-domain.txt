@@ -14,6 +14,7 @@ www.visa.com:443#优选 | www.visa.com
 skk.moe:443#优选 | skk.moe
 bestcf.030101.xyz:443#优选 | bestcf.030101.xyz
 cf.877774.xyz:443#优选 | cf.877774.xyz
-cf.090227.xyz:443#优选 | CM优选.cf.090227.xyz
+CM优选.cf.090227.xyz:443#优选 | cf.090227.xyz
+优选.cloudflare.182682.xyz:443# 优选 | cloudflare.182682.xyz
 cloudflare.seeck.cn:443#优选 | cloudflare.seeck.cn
 [2606:4700::]:2053#IPv6 | 节点 | 🇺🇸美国
