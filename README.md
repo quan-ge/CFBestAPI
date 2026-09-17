@@ -20,7 +20,7 @@
 ## DOMAIN API
 
 ```
-https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain.txt
+https://raw.githubusercontent.com/quan-ge/CFBestAPI/main/best-cf-domain.txt
 ```
 
 
