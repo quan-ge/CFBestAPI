@@ -1,5 +1,3 @@
-shopify.com:443#优选 | shopify.com
-cookiebot.com:443#优选 | cookiebot.com
 nexusmods.com:443#优选 | nexusmods.com
 bluehost.com:443#优选 | bluehost.com
 glassdoor.com:443#优选 | glassdoor.com
@@ -13,8 +11,6 @@ store.epicgames.com:443#优选 | store.epicgames.com
 mycareer.verizon.com:443#优选 | mycareer.verizon.com
 onetrust.com:443#优选 | onetrust.com
 www.visa.com:443#优选 | www.visa.com
-www.tpg.com:443#优选 | www.tpg.com
-www.wilshire.com:443#优选 | www.wilshire.com
 skk.moe:443#优选 | skk.moe
 bestcf.030101.xyz:443#优选 | bestcf.030101.xyz
 cf.877774.xyz:443#优选 | cf.877774.xyz
