@@ -14,3 +14,4 @@ cf.blogluo.eu.org:443#优选 | cf.blogluo.eu.org
 172.64.32.123#节点 | HK
 1.0.0.1#节点 | CFDNS
 1.1.1.1#节点 | CFDNS
+108.162.226.25#节点 |JP
