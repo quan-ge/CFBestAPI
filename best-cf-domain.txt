@@ -10,4 +10,4 @@ CM优选.cf.090227.xyz:443#优选 | cf.090227.xyz
 cloudflare.seeck.cn:443#优选 | cloudflare.seeck.cn
 cf.blogluo.eu.org:443#优选 | cf.blogluo.eu.org
 [2606:4700::]:2053#节点 |  US | IPv6
-43.132.106.29:21080#节点 | HK | 代理
+172.67.102.229:2096#节点 | IN
