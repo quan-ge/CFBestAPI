@@ -1,20 +1,13 @@
 nexusmods.com:443#优选 | nexusmods.com
 bluehost.com:443#优选 | bluehost.com
 glassdoor.com:443#优选 | glassdoor.com
-mfa.gov.ua:443#优选 | mfa.gov.ua
-sage.com:443#优选 | sage.com
-staticdelivery.nexusmods.com:443#优选 | staticdelivery.nexusmods.com
 store.ubi.com:443#优选 | store.ubi.com
-www.speedtest.net:443#优选 | www.speedtest.net
-markmonitor.com:443#优选 | markmonitor.com
-store.epicgames.com:443#优选 | store.epicgames.com
-mycareer.verizon.com:443#优选 | mycareer.verizon.com
 onetrust.com:443#优选 | onetrust.com
-www.visa.com:443#优选 | www.visa.com
-skk.moe:443#优选 | skk.moe
 bestcf.030101.xyz:443#优选 | bestcf.030101.xyz
 cf.877774.xyz:443#优选 | cf.877774.xyz
 CM优选.cf.090227.xyz:443#优选 | cf.090227.xyz
 优选.cloudflare.182682.xyz:443# 优选 | cloudflare.182682.xyz
 cloudflare.seeck.cn:443#优选 | cloudflare.seeck.cn
-[2606:4700::]:2053#IPv6 | 节点 | 🇺🇸美国
+cf.blogluo.eu.org:443#优选 | cf.blogluo.eu.org
+[2606:4700::]:2053#节点 |  US | IPv6
+43.132.106.29:21080#节点 | HK | 代理
