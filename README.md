@@ -38,5 +38,13 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domai
 - 非即时更新，视使用体验少量更新。
 
 <p align="center">
-  <img src="src/in-edt.png" alt="效果图">
+  <img src="src/in-edt.png" alt="教程图">
 </p>
+
+## API 教程演示
+
+- [Cloudflare 免费节点怎么提速？第二弹：新增2种方法筛选高速优选IP | 4K测速](https://www.youtube.com/watch?v=hdB7QhGprJk)
+- [只要3分钟！Cloudflare免费搭建永久节点，如何获取优选｜自动优选IP实测21万！白嫖节点｜一键订阅【豌豆分享】](https://www.youtube.com/watch?v=NOwpLkHPmao)
+- [【免费VPN】最全 Cloudflare 节点提速方法 | 高速优选IP | 支持ChatGPT/Gemini](https://www.youtube.com/watch?v=O6h3CLAUyiE)
+- [Edgetunnel2.0 - 自定义优选 - 优选API 图文教程](https://eo.blog.cmliussss.com/p/edt2/#%F0%9F%94%8C-%E4%BC%98%E9%80%89API)
+- [通过优选域名/IP接入Cloudflare](https://blog.qmsdh.com/index.php/archives/21/)
