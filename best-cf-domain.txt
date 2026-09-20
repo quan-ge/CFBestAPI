@@ -5,6 +5,7 @@ store.ubi.com:443#优选 | store.ubi.com
 onetrust.com:443#优选 | onetrust.com
 bestcf.030101.xyz:443#优选 | bestcf.030101.xyz
 cf.877774.xyz:443#优选 | cf.877774.xyz
+saas.sin.fan:443#优选 | saas.sin.fan 
 CM优选.cf.090227.xyz:443#优选 | cf.090227.xyz
 优选.cloudflare.182682.xyz:443# 优选 | cloudflare.182682.xyz
 cloudflare.seeck.cn:443#优选 | cloudflare.seeck.cn
