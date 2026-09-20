@@ -9,6 +9,7 @@ saas.sin.fan:443#优选 | saas.sin.fan
 CM优选.cf.090227.xyz:443#优选 | cf.090227.xyz
 优选.cloudflare.182682.xyz:443# 优选 | cloudflare.182682.xyz
 cloudflare.seeck.cn:443#优选 | cloudflare.seeck.cn
+sanwang.cf.3666888.xyz:443#优选 | cloudflare.seeck.cn
 cf.blogluo.eu.org:443#优选 | cf.blogluo.eu.org
 [2606:4700::]:2053#节点 |  US | IPv6
 104.17.211.34:8443#节点 | HK
