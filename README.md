@@ -26,6 +26,11 @@
 https://raw.githubusercontent.com/quan-ge/CFBestAPI/main/best-cf-domain.txt
 ```
 
+## DOMAIN API Lite（更少更优）：
+
+```
+https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain-lite.txt
+```
 
 ## 使用
 
