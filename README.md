@@ -10,7 +10,7 @@
 
 > 本API基于原项目 [LancelotRar/best-cf-domains](https://github.com/LancelotRar/best-cf-domains) 优化
 >
-> 解决原项目的臃肿问题和无效的优选域名
+> 解决原项目的臃肿问题和去除无效的优选域名
 
 ## 应用效果
 
