@@ -2,6 +2,7 @@ nexusmods.com:443#优选 | nexusmods.com
 glassdoor.com:443#优选 | glassdoor.com
 store.ubi.com:443#优选 | store.ubi.com
 onetrust.com:443#优选 | onetrust.com
+time.is:8443#优选 | time.is
 bestcf.030101.xyz:443#优选 | bestcf.030101.xyz
 cf.877774.xyz:443#优选 | cf.877774.xyz
 saas.sin.fan:443#优选 | saas.sin.fan 
