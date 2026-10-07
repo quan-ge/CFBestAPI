@@ -8,9 +8,11 @@
 
 - 优选域名往往使用了一些未被重点照顾、或者网络权重更高的 Cloudflare 边缘节点入口，能够有效避开部分运营商对常规 Cloudflare IP 段的本地阻断，连接成功率更高。
 
-> 本API基于原项目 [LancelotRar/best-cf-domains](https://github.com/LancelotRar/best-cf-domains) 优化
+- IPv6支持
+
+> 本API基于原项目 [LancelotRar/best-cf-domains](https://github.com/LancelotRar/best-cf-domains) 优化而来
 >
-> 解决原项目的臃肿问题和去除无效的优选域名
+> 解决原项目的臃肿问题以及去除已经无效的优选
 
 ## 应用效果
 
@@ -26,7 +28,7 @@
 https://raw.githubusercontent.com/quan-ge/CFBestAPI/main/best-cf-domain.txt
 ```
 
-## DOMAIN API Lite（更少更优）：
+## DOMAIN API Lite：
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain-lite.txt
